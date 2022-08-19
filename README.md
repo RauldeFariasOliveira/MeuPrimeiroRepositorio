@@ -2,3 +2,5 @@
 ## Iniciando
 :zap:
 :thumbsup:
+
+Alterando readme localmente
